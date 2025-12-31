@@ -16,7 +16,7 @@ phases:
       # - echo "Branch    : $BRANCH_NAME"
       # - echo "Commit ID : $COMMIT_ID"
 
-      # # Clone dynamically
+      # # Clone dynamicallyyyyyy
       # - git clone https://github.com/$REPO_NAME.git
       # - cd $REPO_NAME
       # - git checkout $BRANCH_NAME
